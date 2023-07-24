@@ -21,16 +21,16 @@
 - 芯片组: B760
 - BIOS版本: 7E01vM3 2023-05-19
 - 处理器: 英特尔12代 i5-12400
-- 内存: 金百达 A-Die 32GB(16GB*2) DDR5 6000 Mhz
-- 硬盘: 梵想  Fanxiang S790 1TB Windows
+- 内存:  金百达 A-Die 16GB DDR5 6000 Mhz
+- 硬盘: 雷克沙 NM610 Pro 1TB Windows
 - 硬盘: 致态 TiPlus 7100 1TB MacOS
-- 显卡: ASUS Dual Radeon RX 6600 XT 8GB GDDR6 雪豹
+- 显卡: 盈通  Radeon RX 6600 8GB GDDR5
 - 声卡: 瑞昱 ALC897
 - 有线网卡: 瑞昱 RTL8125 Gaming 2.5GbE
-- 无线网卡: 英特尔
-- 处理器散热: 利民 240 冰封幻境 一体式水冷散热器 ARGB LGA1700 黑色
-- 机箱:  玩嘉 铝元素紧凑机箱 MATX (黄色)
-- 电源:  鑫谷 GM750W ATX 80 金牌全模组
+- 无线网卡: 英特尔 AX211
+- 处理器散热: 乔思伯CR1400
+- 机箱:  HTKC 100 Plus
+- 电源:  长城 v7 700W ATX 80 金牌全模组
 
 
 ### BIOS设置

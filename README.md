@@ -21,16 +21,16 @@
 - Chipset: B760
 - BIOS: 7E01vM3 2023-05-19
 - CPU: Intel 12th i5-12400
-- Memo: KingBank A-Die 32GB(16GB*2) DDR5 6000 Mhz
-- SSD: Fanxiang  S790 1TB Windows
+- Memo: KingBank A-Die 16GB DDR5 6000 Mhz
+- SSD: Lexar  NM610 Pro 1TB Windows
 - SSD: TiPlus 7100 1TB MacOS
-- GPU: ASUS Dual Radeon RX 6600 XT 8GB GDDR6
+- GPU: YESTON Radeon RX 6600 8GB GDDR5
 - HDA: Realtek ALC897
 - LAN: Realtek RTL8125 Gaming  2.5GbE
-- WLAN: Intel 
-- CPU COOLING: Thermalright Frozen Magic 240 BLACK
-- CASE:  WJCOOMAN MATX (YELLOW)
-- PSU:  Segotep GM750W GOLD 750W
+- WLAN: Intel  AX211
+- CPU COOLING: JONSBO CR1400
+- CASE:  HTKC 100 Plus
+- PSU:  Great Wall v7 700W ATX 80 Gold
 
 
 ### BIOS
