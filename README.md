@@ -1,8 +1,8 @@
-## MAG B760M BOMBER WIFI Hackintosh OpenCore EFI
+## MAG B760M BOMBER WIFI 黑苹果 OpenCore EFI
 
 ![image](Screenshot/Motherbord.png)
 
-### [简体中文](README.zh_CN.md)
+### [ENGLISH](README.EN.md)
 
 
 ### OpenCore
@@ -16,34 +16,37 @@
 - Monterey
 
 
-### Spec
+### 硬件
 
-- Chipset: B760
-- BIOS: 7E01vM3 2023-05-19
-- CPU: Intel 12th i5-12400
-- Memo: KingBank A-Die 16GB DDR5 6000 Mhz
-- SSD: Lexar  NM610 Pro 1TB Windows
-- SSD: TiPlus 7100 1TB MacOS
-- GPU: YESTON Radeon RX 6600 8GB GDDR5
-- HDA: Realtek ALC897
-- LAN: Realtek RTL8125 Gaming  2.5GbE
-- WLAN: Intel  AX211
-- CPU COOLING: JONSBO CR1400
-- CASE:  HTKC 100 Plus
-- PSU:  Great Wall v7 700W ATX 80 Gold
+- 芯片组: B760
+- BIOS版本: 7E01vM3 2023-05-19
+- 处理器: 英特尔12代 i5-12400
+- 内存:  金百达 A-Die 16GB DDR5 6000 Mhz
+- 硬盘: 雷克沙 NM610 Pro 1TB Windows
+- 硬盘: 致态 TiPlus 7100 1TB MacOS
+- 显卡: 盈通  Radeon RX 6600 8GB GDDR5
+- 声卡: 瑞昱 ALC897
+- 有线网卡: 瑞昱 RTL8125 Gaming 2.5GbE
+- 无线网卡: 英特尔 AX211
+- 处理器散热: 乔思伯CR1400
+- 机箱:  HTKC 100 Plus
+- 电源:  长城 v7 700W ATX 80 金牌全模组
 
 
-### BIOS
+### BIOS设置
 
 ```
+1.关闭安全启动
 Settings
   |-- Security
      |-- Secure Boot
        |-- Secure Boot: Disabled
-       
+
+2.使用搜索功能查找并启用 D.T.M 
 Search
   |-- D.T.M
     |-- D.T.M: Enabled
+
 ```
 
 <img src="Screenshot/Search.png" alt="image" style="zoom:50%;" />
@@ -54,20 +57,12 @@ Search
 
 
 
-### Notes
+### 注意事项
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
-
-### Screenshot
-
-![macOS Ventura](Screenshot/about.png)
-
-![Info](Screenshot/info.png)
-
-![Geekbench 5](Screenshot/geekbench5.png)
+ - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
 
 
-### Tools
+### 常用工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
 - [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) AKA `OCAT`.
@@ -76,7 +71,7 @@ Search
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
 
 
-### Contact Us
+### 联系我们
 
 QQ Group: 23304408
 
