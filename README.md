@@ -7,14 +7,15 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.4](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
 
-- Sonoma
-- Ventura
-- Monterey
+- macOS Sequoia   15.x
+- macOS Sonoma   14.x
+- macOS Ventura    13.x
+- macOS Monterey 12.x
 
 
 ### 硬件
